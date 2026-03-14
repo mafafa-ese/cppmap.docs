@@ -3,9 +3,7 @@ description: 各種 C++ 処理系の規格対応状況
 # 処理系の対応状況
 
 ## 処理系の比較表
-- [C++ compiler support (C++20 - C++26)](https://en.cppreference.com/w/cpp/compiler_support)
-- [Compiler support for C++17](https://en.cppreference.com/w/cpp/compiler_support/17)
-- [Compiler support for C++14](https://en.cppreference.com/w/cpp/compiler_support/14)
+- [cppstat :material-open-in-new:](https://cppstat.dev/){:target="_blank"}
 
 ## C++26
 - GCC: [C++26 Support in GCC](https://gcc.gnu.org/projects/cxx-status.html#cxx26)

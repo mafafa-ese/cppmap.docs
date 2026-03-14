@@ -4,11 +4,28 @@ description: C++ 標準化委員会で議論される提案リストと日本語
 
 C++ 標準化委員会の提案文書と、その日本語解説記事へのリンクです。
 
+### 2026 年
+- [JTC1/SC22/WG21 - Papers 2026 mailing2026-02](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/#mailing2026-02){:target="_blank"}
+- [JTC1/SC22/WG21 - Papers 2026 mailing2026-01](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/#mailing2026-01){:target="_blank"}
+
 ### 2025 年
+- [JTC1/SC22/WG21 - Papers 2025 mailing2025-12](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-12){:target="_blank"}
+- [JTC1/SC22/WG21 - Papers 2025 mailing2025-10](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-10){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年10月）](https://onihusube.hatenablog.com/entry/2026/03/01/204210){:target="_blank"}
+- [JTC1/SC22/WG21 - Papers 2025 mailing2025-09](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-09){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年09月）](https://onihusube.hatenablog.com/entry/2026/01/31/012640){:target="_blank"}
+- [JTC1/SC22/WG21 - Papers 2025 mailing2025-08](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-08){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年08月）](https://onihusube.hatenablog.com/entry/2026/01/18/210314){:target="_blank"}
+- [JTC1/SC22/WG21 - Papers 2025 mailing2025-07](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-07){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年07月）](https://onihusube.hatenablog.com/entry/2026/01/16/235211){:target="_blank"}
 - [JTC1/SC22/WG21 - Papers 2025 mailing2025-05](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-05){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年05月）](https://onihusube.hatenablog.com/entry/2025/12/16/230316){:target="_blank"}
 - [JTC1/SC22/WG21 - Papers 2025 mailing2025-04](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-04){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年04月）](https://onihusube.hatenablog.com/entry/2025/10/17/135531){:target="_blank"}
 - [JTC1/SC22/WG21 - Papers 2025 mailing2025-03](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-03){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年03月）](https://onihusube.hatenablog.com/entry/2025/09/30/224815){:target="_blank"}
 - [JTC1/SC22/WG21 - Papers 2025 mailing2025-01](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/#mailing2025-01){:target="_blank"}
+    - 日本語での解説: [WG21月次提案文書を眺める（2025年01月）](https://onihusube.hatenablog.com/entry/2025/08/30/234243){:target="_blank"}
 
 ### 2024 年
 - [JTC1/SC22/WG21 - Papers 2024 mailing2024-12](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/#mailing2024-12){:target="_blank"}
